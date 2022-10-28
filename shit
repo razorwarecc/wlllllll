@@ -1,0 +1,17 @@
+local loginEvent = Instance.new("RemoteEvent")
+
+loginEvent.Parent = game.SoundService
+loginEvent.Name = math.random(0,9058917453)
+
+local login_KEYS = {
+    'px16P40P20p43P40cx19C26C13c25c12';
+    'x45x8x35X10x35hx37H42H46H35H28';
+    'x30H34H42H50h7x8c28C40c41c10';
+    'ax41A32a6A47a19x24l13L14L30l45';
+    'x41B50b15B35b6nx48N41N21n20n18';
+    'x50B37B44b18b17ax17A8a24a10a34';
+    'px24p4P13P42p8x12e16E49E18e13';
+    'x35j13j26j37J29x10m7m50M15M6';
+    'x18O41o40o8o20x18O41o40o8o20';
+    'x18O41o40o8o20dx29D11D5D12D11';
+}
